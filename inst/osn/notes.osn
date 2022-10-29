@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm-notes>
+<note id="1" lat="35.5170066" lon="139.6322554" created_at="2013-04-24T08:12:38Z" closed_at="2022-05-18T21:43:39Z">
+  <comment action="opened" timestamp="2013-04-24T08:12:38Z" uid="12" user="Javier Curtis">Lorem ipsum</comment>
+  <comment action="closed" timestamp="2013-05-10T12:28:11Z" uid="53" user="Tia James">Class aptent taciti sociosqu ad litora</comment>
+  <comment action="reopened" timestamp="2022-04-15T21:58:43Z" uid="167" user="Nina Howard"></comment>
+  <comment action="commented" timestamp="2022-04-15T21:59:07Z" uid="167" user="Nina Howard">Pellentesque arcu sem</comment>
+  <comment action="closed" timestamp="2022-05-18T21:43:39Z" uid="25" user="Joshua Mcguire">Quisque ante velit, tincidunt at lorem non</comment>
+</note>
+<note id="2" lat="50.9381992" lon="1.8605947" created_at="2013-04-24T08:14:28Z" closed_at="2013-04-24T08:14:50Z">
+  <comment action="opened" timestamp="2013-04-24T08:14:28Z">Morbi facilisis egestas hendrerit.</comment>
+  <comment action="closed" timestamp="2013-04-24T08:14:50Z" uid="118" user="Ashleigh Mccormick"></comment>
+</note>
+</osm-notes>
